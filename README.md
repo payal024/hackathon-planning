@@ -27,4 +27,4 @@ Steps
 
 # How to pull changes 
 Steps
-  1. To pull the changes from source branch to your destination branch use the command git pull 'remote_name' 'branch_name'. Here the remote_name is the name of the source branch and the branch_name is destination branch where you want the changes to be merged.
+  1. To pull the changes from source branch to your destination branch use the command git pull 'source_branch' 'destination_branch'. Here destination_branch is destination branch where you want the changes to be merged.
